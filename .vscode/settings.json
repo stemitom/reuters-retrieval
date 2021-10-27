@@ -1,0 +1,4 @@
+{
+    "azureML.defaultWorkspaceId": "/subscriptions/e924138f-1398-4217-b886-025fc2398a88/resourceGroups/wasp-mlops/providers/Microsoft.MachineLearningServices/workspaces/wasp-mlops",
+    "jupyter.jupyterServerType": "remote"
+}

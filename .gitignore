@@ -122,3 +122,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#file-directory
+data/Reuters21578-Apte-90Cat
+Reuters21578-Apte-90Cat.tar.gz
